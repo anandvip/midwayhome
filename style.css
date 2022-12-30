@@ -18,7 +18,7 @@ li {
   padding: 10px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-
+/**
 @media (max-width: 768px) {
   ol {
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -36,3 +36,4 @@ li {
   padding: 8px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+**/

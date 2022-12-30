@@ -21,13 +21,7 @@ li {
 
 @media (max-width: 768px) {
   ol {
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  }
-}
-
-@media (max-width: 480px) {
-  ol {
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-columns: 1fr;
   }
 }
 
